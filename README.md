@@ -1,1 +1,1 @@
-My name is Ben Allen, I am a software engineer, database engineer, and hobbyist game designer.
+Hi, I'm Ben. I am a Software Engineer and Database Developer who focuses on building scalable and efficient programs for a variety of platforms and use cases. Check out my custom online storefront with sign-in, MFA, front-end/back-end integration, and SQL injection protection.
